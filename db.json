@@ -1,4 +1,9 @@
 {
-  "letters" : [
+  "users" : [
+    {
+      "id": 1,
+      "name": "test",
+      "surname": "example"
+    }
   ]
 }
